@@ -190,9 +190,13 @@ The project contains two main plots:
 
 Time vs. n
 
+![Time vs n](docs/plots/time_vs_n_random.png)
+
 The plot shows how execution time changes as the input size increases.
 
 Recursion Depth vs. n
+
+![Recursion Depth vs n](docs/plots/recursion_depth_vs_n_random.png)
 
 The plot shows how the measured recursion depth changes with increasing input size.
 
